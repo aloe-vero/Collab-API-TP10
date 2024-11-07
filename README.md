@@ -69,8 +69,8 @@ Status: 200
         "email": "emilie@example.com"  
     }  
 }
-```
-
+```  
+-----------------  
 __Récupérer tous les spécialistes__  
 Requête  
 GET http://localhost:3000/specialistes  
@@ -99,8 +99,8 @@ Status: 200
     "nom": "Albert-Moisan",  
     "prenom": "Émilie"  
 }
-```
-
+```  
+-----------------  
 __Récupérer toutes les réservations__  
 Requête  
 GET http://localhost:3000/reservations  
