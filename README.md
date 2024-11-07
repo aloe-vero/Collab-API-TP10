@@ -1,5 +1,5 @@
 # Documentation API  
-##titreClients  
+## Clients  
 __Récupérer tous les clients__  
 Requête  
 GET http://localhost:3000/clients 
@@ -71,6 +71,7 @@ Status: 200
 }
 ```  
 -----------------  
+## Spécialistes  
 __Récupérer tous les spécialistes__  
 Requête  
 GET http://localhost:3000/specialistes  
@@ -101,6 +102,7 @@ Status: 200
 }
 ```  
 -----------------  
+## Réservations  
 __Récupérer toutes les réservations__  
 Requête  
 GET http://localhost:3000/reservations  
