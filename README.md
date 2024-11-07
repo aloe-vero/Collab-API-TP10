@@ -6,11 +6,13 @@ GET http://localhost:3000/clients
   
 Réponse  
 Status 200  
+
 ```[  
     "/client/1",  
     "/client/2",  
     "/client/3"  
-]``` 
+]```
+
 __Récupérer un client spécifique (id)__  
 Requête  
 GET http://localhost:3000/client/1  
