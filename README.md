@@ -11,7 +11,8 @@ Status 200
     "/client/1",  
     "/client/2",  
     "/client/3"  
-]```
+]
+```
 
 __Récupérer un client spécifique (id)__  
 Requête  
