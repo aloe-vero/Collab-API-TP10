@@ -37,7 +37,8 @@ Requête
 POST http://localhost:3000/clients  
   
 Réponse  
-Status: 201 
+Status: 201  
+
 ```
 {  
     "message": "Client ajouté avec succès",  
@@ -70,7 +71,6 @@ Status: 200
     }  
 }
 ```  
------------------  
 ## Spécialistes  
 __Récupérer tous les spécialistes__  
 Requête  
@@ -101,7 +101,6 @@ Status: 200
     "prenom": "Émilie"  
 }
 ```  
------------------  
 ## Réservations  
 __Récupérer toutes les réservations__  
 Requête  
