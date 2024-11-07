@@ -1,5 +1,5 @@
-# Documentation API
-
+# Documentation API  
+##titre Clients
 __Récupérer tous les clients__  
 Requête  
 GET http://localhost:3000/clients 
